@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https:link de linkdedIn">
+  <a href="https://www.linkedin.com/in/alejandrachavez/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
@@ -22,13 +22,14 @@
 📌 **Analista de Datos**  
 📊 Me apasiona el análisis de datos y el uso de herramientas como SQL y Python  
 🚀 Siempre estoy en constante aprendizaje para mejorar mis habilidades  
-📚 Actualmente estoy estudiando Analista de Datos con Python 
+📚 Actualmente estoy estudiando Analista de Datos con Python  
 💡 Me gusta compartir conocimientos y colaborar en proyectos de análisis de datos  
 📧 **Email:** AnalystAlejandraChavez@gmail.com
 
 <hr> <!-- Línea divisoria horizontal -->
 
-📌&nbsp;En el repositorio de nombrado 
+📌&nbsp;Aquí comparto los proyectos que desarrollé en el curso de TRIPLETEN. Incluyen análisis de datos con Python, SQL y herramientas de visualización. 🚀  
+📂 ¡Explora mis repositorios para ver más!
  
 🌍 Contacta conmigo
 📧 Email: AnalystAlejandraChavez@gmail.com
