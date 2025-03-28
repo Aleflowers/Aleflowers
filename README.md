@@ -18,12 +18,20 @@
 <hr> <!-- Línea divisoria horizontal -->
 
 🌟 Sobre mí
+👩‍💻 **Maestría en Administracion con Mercadotecnia / Ing. en Sistemas Computacionales**  
+📌 **Analista de Datos**  
+📊 Me apasiona el análisis de datos y el uso de herramientas como SQL y Python  
+🚀 Siempre estoy en constante aprendizaje para mejorar mis habilidades  
+📚 Actualmente estoy estudiando Analista de Datos con Python 
+💡 Me gusta compartir conocimientos y colaborar en proyectos de análisis de datos  
+📧 **Email:** AnalystAlejandraChavez@gmail.com
+
 <hr> <!-- Línea divisoria horizontal -->
 
 📌&nbsp;En el repositorio de nombrado 
  
 🌍 Contacta conmigo
-📧 Email: 
+📧 Email: AnalystAlejandraChavez@gmail.com
 
 <hr> <!-- Línea divisoria horizontal -->
 
@@ -32,7 +40,8 @@
     <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
     <img decoding="async" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=database&logoColor=white" alt="sql"/>
     <img decoding="async" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="tableau"/>
-    
+      <img decoding="async" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="AS/400"/>
+  <img decoding="async" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="JDE"/>
 </div>
 
 📌 Mis Estadísticas
