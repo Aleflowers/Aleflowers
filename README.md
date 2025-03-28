@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="link de tu imagen en github del banner" width="800"/>
+  <img decoding="async" src="https://github.com/Aleflowers/Aleflowers/blob/main/Banner%20Linkedin%20Alejandra%20Ch%C3%A1vez.png?raw=true" width="800"/>
 </div>
 
 <div align="center">
