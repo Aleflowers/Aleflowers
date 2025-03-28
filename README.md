@@ -42,9 +42,8 @@
     <img decoding="async" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=database&logoColor=white" alt="sql"/>
     <img decoding="async" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="tableau"/>
     <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
-    <img decoding="async" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="sap"/>
-    <br>
-    💾 **AS/400** | 🏢 **JDEdwards**
+    <img decoding="async" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logoColor=white" alt="sap"/>
+    <img decoding="async" src="https://img.shields.io/badge/AS/400-808080?style=for-the-badge&logoColor=white" alt="as400"/>
 </div>
 
 📌 Mis Estadísticas
